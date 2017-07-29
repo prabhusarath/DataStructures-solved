@@ -1,8 +1,4 @@
 
-# coding: utf-8
-
-# In[38]:
-
 def Bubble_sort(arr):
     
     for index in range(len(arr)-1,0,-1):
@@ -17,9 +13,3 @@ def Bubble_sort(arr):
     
     return arr
     
-
-
-# In[ ]:
-
-
-
